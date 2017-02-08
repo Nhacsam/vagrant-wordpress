@@ -20,7 +20,7 @@
     php_extensions:
       - { name: "jsmin", package: "pecl.php.net/jsmin-beta" }
       - { name: "xhprof", package: "pecl.php.net/xhprof-beta" }
-    php_ppa: php5
+    php_ppa: php
     nodejs:
       version: _5.x
       packages: [casperjs, phantomjs, bower, gulp]
